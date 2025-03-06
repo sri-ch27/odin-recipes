@@ -1,2 +1,2 @@
 # odin-recipes
-learned some html tags and the result is hear.
+learned some html tags and the result is here.
